@@ -1,6 +1,6 @@
 {
-  "vendor": "vtex",
-  "name": "basicblocks",
+  "vendor": "hiringcoders2021",
+  "name": "basic-blocks",
   "version": "0.0.0",
   "builders": {
     "styles": "2.x",
